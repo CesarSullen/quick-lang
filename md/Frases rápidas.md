@@ -198,5 +198,5 @@ Además, la segunda parte añade un tono forma. Una forma informal de decir lo m
 
 🗣️ (Mata ashita.) 
 
-また (Mata) / (Hasta)  
+また (Mata) / (otra vez)  
 明日 (ashita) / (mañana)
