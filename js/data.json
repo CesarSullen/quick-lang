@@ -1,0 +1,482 @@
+[
+  {
+    "index": 1,
+    "es": "Estoy estudiando japonés.",
+    "jp": "私は日本語を勉強しています。",
+    "romanji": "(Watashi wa nihongo o benkyou shiteimasu.)",
+    "parts": [
+      {
+        "partIndex": 1,
+        "character": "私",
+        "translation": "(Watashi) / (Yo)"
+      },
+      {
+        "partIndex": 2,
+        "character": "は",
+        "translation": "(wa) / (partícula que indica el tema)"
+      },
+      {
+        "partIndex": 3,
+        "character": "日本語",
+        "translation": "(nihongo) / (japonés)"
+      },
+      {
+        "partIndex": 4,
+        "character": "を",
+        "translation": "(o) / (partícula que indica objeto)"
+      },
+      {
+        "partIndex": 5,
+        "character": "勉強",
+        "translation": "(benkyou) / (estudio)"
+      },
+      {
+        "partIndex": 6,
+        "character": "しています",
+        "translation": "(shiteimasu) / (forma continua)"
+      }
+    ]
+  },
+  {
+    "index": 2,
+    "es": "Hola, ¿cómo estás?",
+    "jp": "こんにちは、お元気ですか？",
+    "romanji": "(Konnichiwa, ogenki desu ka?)",
+    "parts": [
+      {
+        "partIndex": 1,
+        "character": "こんにちは",
+        "translation": "(Konnichiwa) / (Hola)"
+      },
+      {
+        "partIndex": 2,
+        "character": "お元気",
+        "translation": "(ogenki) / (bien)"
+      },
+      {
+        "partIndex": 3,
+        "character": "ですか",
+        "translation": "(desu ka) / (¿estás?)"
+      }
+    ]
+  },
+  {
+    "index": 3,
+    "es": "Por favor, ayúdame.",
+    "jp": "どうか、助けてください。",
+    "romanji": "(Douka, tasukete kudasai.)",
+    "parts": [
+      {
+        "partIndex": 1,
+        "character": "どうか",
+        "translation": "(Douka) / (Por favor)"
+      },
+      {
+        "partIndex": 2,
+        "character": "助けて",
+        "translation": "(Tasukete) / (ayúdame)"
+      },
+      {
+        "partIndex": 3,
+        "character": "ください",
+        "translation": "(kudasai) / (forma cortés de pedir)"
+      }
+    ]
+  },
+  {
+    "index": 4,
+    "es": "¿Dónde está el baño?",
+
+    "jp": "トイレはどこですか？",
+    "romanji": "(Toire wa doko desu ka?)",
+    "parts": [
+      {
+        "partIndex": 1,
+        "character": "トイレ",
+        "translation": "(Toire)/(baño)"
+      },
+      {
+        "partIndex": 2,
+        "character": "は",
+        "translation": "(wa)/(partícula que indica el tema)"
+      },
+      {
+        "partIndex": 3,
+        "character": "どこ",
+        "translation": "(doko)/(dónde)"
+      },
+      {
+        "partIndex": 4,
+        "character": "ですか",
+        "translation": "(desu ka)/(forma interrogativa)"
+      }
+    ]
+  },
+  {
+    "index": 5,
+    "es": "¿Cuánto cuesta esto?",
+    "jp": "これはいくらですか？",
+    "romanji": "(Kore wa ikura desu ka?)",
+    "parts": [
+      {
+        "partIndex": 1,
+        "character": "これ",
+        "translation": "(Kore) / (esto)"
+      },
+      {
+        "partIndex": 2,
+        "character": "は",
+        "translation": "(wa) / (partícula que indica el tema)"
+      },
+      {
+        "partIndex": 3,
+        "character": "いくら",
+        "translation": "(ikura) / (cuánto)"
+      },
+      {
+        "partIndex": 4,
+        "character": "ですか",
+        "translation": "(desu ka) / (forma interrogativa)"
+      }
+    ]
+  },
+  {
+    "index": 6,
+    "es": "¿Puedes repetirlo?",
+    "jp": "もう一度言ってもらえますか？",
+    "romanji": "(Mou ichido itte moraemasu ka?)",
+    "parts": [
+      {
+        "partIndex": 1,
+        "character": "もう一度",
+        "translation": "(Mou ichido) / (una vez más)"
+      },
+      {
+        "partIndex": 2,
+        "character": "言って",
+        "translation": "(itte) / (decir)"
+      },
+      {
+        "partIndex": 3,
+        "character": "もらえますか",
+        "translation": "(moraemasu ka) / (puedes darme)"
+      }
+    ]
+  },
+  {
+    "index": 7,
+    "es": "¿Cuál es tu nombre?",
+    "jp": "あなたの名前は何ですか？",
+    "romanji": "(Anata no namae wa nan desu ka?)",
+    "parts": [
+      {
+        "partIndex": 1,
+        "character": "あなた",
+        "translation": "(Anata) / (Tú)"
+      },
+      {
+        "partIndex": 2,
+        "character": "の",
+        "translation": "(no) / (partícula que indica posesión)"
+      },
+      {
+        "partIndex": 3,
+        "character": "名前",
+        "translation": "(namae) / (nombre)"
+      },
+      {
+        "partIndex": 4,
+        "character": "は",
+        "translation": "(wa) / (partícula que indica el tema)"
+      },
+      {
+        "partIndex": 5,
+        "character": "何",
+        "translation": "(nan) / (qué)"
+      },
+      {
+        "partIndex": 6,
+        "character": "ですか",
+        "translation": "(desu ka) / (forma interrogativa)"
+      }
+    ]
+  },
+  {
+    "index": 8,
+    "es": "Lo siento, será para otra ocasión.",
+    "jp": "許せ、また今度だ。",
+    "romanji": "(Yuruse, mata kondo da.)",
+    "parts": [
+      {
+        "partIndex": 1,
+        "character": "許せ",
+        "translation": "(yuruse) / (perdona)"
+      },
+      {
+        "partIndex": 2,
+        "character": "また",
+        "translation": "(mata) / (otra vez)"
+      },
+      {
+        "partIndex": 3,
+        "character": "今度",
+        "translation": "(kondo) / (próxima vez)"
+      },
+      {
+        "partIndex": 4,
+        "character": "だ",
+        "translation": "(da) / (es, forma informal)"
+      }
+    ]
+  },
+  {
+    "index": 9,
+    "es": "Disculpe, ¿Qué hora es?",
+    "jp": "すみません、今何時ですか？",
+    "romanji": "(Sumimasen, ima nanji desu ka?)",
+    "parts": [
+      {
+        "partIndex": 1,
+        "character": "すみません",
+        "translation": "(Sumimasen)/(Disculpe)"
+      },
+      {
+        "partIndex": 2,
+        "character": "今",
+        "translation": "(ima)/(ahora)"
+      },
+      {
+        "partIndex": 3,
+        "character": "何時",
+        "translation": "(nanji)/(qué hora)"
+      },
+      {
+        "partIndex": 4,
+        "character": "ですか",
+        "translation": "(desu ka)/(¿es?)"
+      }
+    ]
+  },
+  {
+    "index": 10,
+    "es": "¿Cuándo llega el próximo bus?",
+    "jp": "次のバスはいつ来ますか？",
+    "romanji": "(Tsugi no basu wa itsu kimasu ka?)",
+    "parts": [
+      {
+        "partIndex": 1,
+        "character": "次",
+        "translation": "(Tsugi)/(próximo)"
+      },
+      {
+        "partIndex": 2,
+        "character": "の",
+        "translation": "(no)/(partícula que indica posesión)"
+      },
+      {
+        "partIndex": 3,
+        "character": "バス",
+        "translation": "(basu)/(bus)"
+      },
+      {
+        "partIndex": 4,
+        "character": "は",
+        "translation": "(wa)/(partícula que indica el tema)"
+      },
+      {
+        "partIndex": 5,
+        "character": "いつ",
+        "translation": "(itsu)/(cuándo)"
+      },
+      {
+        "partIndex": 6,
+        "character": "来ます",
+        "translation": "(kimasu)/(llega)"
+      },
+      {
+        "partIndex": 7,
+        "character": "か",
+        "translation": "(ka)/(partícula interrogativa)"
+      }
+    ]
+  },
+  {
+    "index": 11,
+    "es": "¡Voy y vuelvo!",
+    "jp": "行ってきます。",
+    "romanji": "(Ittekimasu.)",
+    "parts": [
+      {
+        "partIndex": 1,
+        "character": "行って",
+        "translation": "(itte) / (ir)"
+      },
+      {
+        "partIndex": 2,
+        "character": "きます",
+        "translation": "(kimasu) / (volver)"
+      }
+    ],
+    "note": "Esta expresión se utiliza al salir de casa, indicando que uno va a regresar."
+  },
+  {
+    "index": 12,
+    "es": "¿Qué vas a comer?",
+    "jp": "何を食べますか？",
+    "romanji": "(Nani o tabemasu ka?)",
+    "parts": [
+      {
+        "partIndex": 1,
+        "character": "何",
+        "translation": "(Nani) / (Qué)"
+      },
+      {
+        "partIndex": 2,
+        "character": "を",
+        "translation": "(o) / (partícula que indica objeto)"
+      },
+      {
+        "partIndex": 3,
+        "character": "食べます",
+        "translation": "(tabemasu) / (comer)"
+      },
+      {
+        "partIndex": 4,
+        "character": "か",
+        "translation": "(ka) / (partícula de pregunta)"
+      }
+    ]
+  },
+  {
+    "index": 13,
+    "es": "Me gusta mucho este lugar.",
+    "jp": "この場所がとても好きです。",
+    "romanji": "(Kono basho ga totemo suki desu.)",
+    "parts": [
+      {
+        "partIndex": 1,
+        "character": "この",
+        "translation": "(Kono) / (Este)"
+      },
+      {
+        "partIndex": 2,
+        "character": "場所",
+        "translation": "(basho) / (lugar)"
+      },
+      {
+        "partIndex": 3,
+        "character": "が",
+        "translation": "(ga) / (partícula que indica el sujeto)"
+      },
+      {
+        "partIndex": 4,
+        "character": "とても",
+        "translation": "(totemo) / (mucho)"
+      },
+      {
+        "partIndex": 5,
+        "character": "好き",
+        "translation": "(suki) / (gustar)"
+      },
+      {
+        "partIndex": 6,
+        "character": "です",
+        "translation": "(desu) / (forma cortés)"
+      }
+    ]
+  },
+  {
+    "index": 14,
+    "es": "Buenas noches.",
+    "jp": "おやすみなさい。",
+    "romanji": "(Oyasumi nasai.)",
+    "parts": [
+      {
+        "partIndex": 1,
+        "character": "おやすみ",
+        "translation": "(oyasumi) / (buen sueño)"
+      },
+      {
+        "partIndex": 2,
+        "character": "なさい",
+        "translation": "(nasai) / (forma educada del verbo \"hacer\")"
+      }
+    ],
+    "note": "Esta expresión se utiliza para despedirse por la noche (no para saludar). Además, la segunda parte añade un tono formal. Una forma informal de decir lo mismo sería “おやすみ” (oyasumi)."
+  },
+  {
+    "index": 15,
+    "es": "Encantado de conocerte.",
+    "jp": "はじめまして",
+    "romanji": "(Hajime mashite)",
+    "parts": [],
+    "note": "Esta frase se utiliza al conocer a alguien por primera vez y se traduce literalmente como \"es el primer encuentro\"."
+  },
+  {
+    "index": 16,
+    "es": "¡Gracias por su trabajo!",
+    "jp": "おつかれ様でした。",
+    "romanji": "(Otsukaresama deshita.)",
+    "parts": [
+      {
+        "partIndex": 1,
+        "character": "おつかれ",
+        "translation": "(Otsukare) / (agotado, cansado)"
+      },
+      {
+        "partIndex": 2,
+        "character": "様",
+        "translation": "(sama) / (honorífico)"
+      },
+      {
+        "partIndex": 3,
+        "character": "でした",
+        "translation": "(deshita) / (forma pasada de ser)"
+      }
+    ],
+    "note": "Aunque no parezca tener sentido la frase separada en partes, al juntarlas todas y traducirla literalmente es un agradecimiento por el arduo trabajo. Esta frase es común entre compañeros al finalizar una jornada."
+  },
+  {
+    "index": 17,
+    "es": "¡Gracias por su trabajo!",
+    "jp": "おつかれ様でした。",
+    "romanji": "(Otsukaresama deshita.)",
+    "parts": [
+      {
+        "partIndex": 1,
+        "character": "おつかれ",
+        "translation": "(Otsukare) / (agotado, cansado)"
+      },
+      {
+        "partIndex": 2,
+        "character": "様",
+        "translation": "(sama) / (honorífico)"
+      },
+      {
+        "partIndex": 3,
+        "character": "でした",
+        "translation": "(deshita) / (forma pasada de ser)"
+      }
+    ],
+    "note": "Aunque no parezca tener sentido la frase separada en partes, al juntarlas todas y traducirla literalmente es un agradecimiento por el arduo trabajo. Esta frase es común entre compañeros al finalizar una jornada."
+  },
+  {
+    "index": 17,
+    "es": "Hasta mañana.",
+    "jp": "また明日。",
+    "romanji": "(Mata ashita.)",
+    "parts": [
+      {
+        "partIndex": 1,
+        "character": "また",
+        "translation": "(Mata) / (Hasta)"
+      },
+      {
+        "partIndex": 2,
+        "character": "明日",
+        "translation": "(ashita) / (mañana)"
+      }
+    ],
+    "note": "Esta frase se utiliza comúnmente para despedirse y expresar que se verá a la otra persona al día siguiente."
+  }
+]
